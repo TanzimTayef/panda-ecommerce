@@ -1,0 +1,44 @@
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 500;
+}
+.carusel-content h1{
+   font-size: 60px;
+}
+.carusel-content h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #FF136F;
+}
+.home{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.hero-btn{
+    background-color: #FF136F;
+    border: none;
+}
+.hilight-color{
+    color: #FF136F;
+    font-weight: 650;
+}
+
+/* -- */
+.brand .brand-item img{
+    width: 100px;
+    height: 100px;
+}
+.brand .brand-item{
+    border-radius: 10px;
+    cursor: pointer;
+}
+#brand-1{
+background-color:#FFA500;
+}
+#brand-2{
+background-color:#DA70D6;
+}
+#brand-3{
+background-color:#0000FF;
+}
+/* --*/
+ 
