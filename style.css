@@ -54,4 +54,19 @@ background-color:#0000FF;
     border-radius: 10px;
     background-color: #FCEAE8;
 }
- 
+/* --------- */
+.payment .pay-card{
+   font-size: 40px;
+   margin-right: 6px; 
+  cursor: pointer;
+}
+.socal-link .icon{
+    width: 34px;
+    height: 34px;
+    background-color: rosybrown;
+    border-radius: 50%;
+    line-height: 34px;
+    text-align: center;
+    color: #fff;
+   cursor: pointer;
+}
